@@ -3,10 +3,12 @@ classifies urban sounds into 10 classes
 
 features
 
-sound classification - identifies 10 urban sound types from audio inout
-real time processing - instant predictions on uploaded files
-performance metrics - see confidence scores for each class
-multiple formats - handles wav, mp3, flac, m4a formats
+- sound classification - identifies 10 urban sound types from audio input
+- real time processing - instant predictions on uploaded files
+- performance metrics - see confidence scores for each class
+- multiple formats - handles wav, mp3, flac, m4a formats
+
+  
 tech stack
 
 frameworks & libraries
